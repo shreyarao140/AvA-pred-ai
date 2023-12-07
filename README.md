@@ -1,7 +1,4 @@
 
-![Copy of INGENUITY2](https://github.com/geexpro/Ingenuity-SIH-1422/assets/88074810/de5f7993-37da-46a3-8d5c-d10e54297bc7)
-<img width="1470" alt="Screenshot 2023-09-20 at 2 16 26 PM" src="https://github.com/geexpro/Ingenuity-SIH-1422/assets/88074810/7357112c-4946-47f2-9aec-95fae21bd3fd">
-
 
 # Enhancing Avalanche Victim Identification: Leveraging AI/ML Technologies for Efficient Detection in Harsh Terrain
 
@@ -11,19 +8,6 @@ This innovative project aims to revolutionize avalanche victim identification by
 Our solution combines cutting-edge AI and ML algorithms with advanced sensing and image processing technologies. By leveraging this powerful synergy, we empower search and rescue teams with the ability to detect and locate avalanche victims more efficiently and accurately than ever before. Our system can analyze complex data from various sources, including aerial imagery, ground sensors, and even remote drones, to provide real-time information on victim locations.
 
 This project aims to make a significant impact on avalanche rescue efforts, saving valuable time and increasing the chances of survival for those caught in these perilous situations. We are committed to pushing the boundaries of technology to enhance the safety and effectiveness of search and rescue operations in harsh avalanche terrain.
-
-
-
-
-## Authors
-
-- [Abhinav Saini](https://www.github.com/iabhinavsaini)
-- [Aditya Berry](https://www.github.com/imortaltatsu)
-- [Tanishq Trivedi](https://www.github.com/tanishqtrivedi)
-- [Yashwini Singh](https://www.github.com/vini3434)
-- [Ankush Singh](https://www.github.com/ankushkun)
-- [Vidhi Jain](https://www.github.com/vidhi)
-
 
 
 
